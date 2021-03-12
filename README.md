@@ -10,6 +10,12 @@ application.
 
 For more information check out the blog post:
 
-https://blog.hyper63.com/...
+blog.hyper63.com/intro-to-svelte-query/
+
+and
+
+https://www.youtube.com/watch?v=p3bCvBF7LHo
+
+
 
 
