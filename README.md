@@ -10,7 +10,7 @@ application.
 
 For more information check out the blog post:
 
-blog.hyper63.com/intro-to-svelte-query/
+https://blog.hyper63.com/intro-to-svelte-query/
 
 and
 
